@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Products>
+   <Product>
+      <ProductID>1</ProductID>
+      <ProductName>Samsung Note 9</ProductName>
+      <SupplierID>2</SupplierID>
+      <CategoryID>2</CategoryID>
+      <QuantityPerUnit>2</QuantityPerUnit>
+      <UnitPrice>5.0</UnitPrice>
+      <UnitsInStock>1</UnitsInStock>
+      <UnitsOnOrder>1</UnitsOnOrder>
+      <ReorderLevel>1</ReorderLevel>
+      <Discontinued>true</Discontinued>
+   </Product>
+   <Product>
+      <ProductID>2</ProductID>
+      <ProductName>iPhone X</ProductName>
+      <SupplierID>3</SupplierID>
+      <CategoryID>2</CategoryID>
+      <QuantityPerUnit>1</QuantityPerUnit>
+      <UnitPrice>10.0</UnitPrice>
+      <UnitsInStock>100</UnitsInStock>
+      <UnitsOnOrder>60</UnitsOnOrder>
+      <ReorderLevel>3</ReorderLevel>
+      <Discontinued>false</Discontinued>
+   </Product>
+</Products>
